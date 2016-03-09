@@ -1,0 +1,29 @@
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\Launchpad.exe.config
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\Launchpad.exe.manifest
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\Launchpad.application
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\Launchpad.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\Launchpad.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\InputSimulator.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\Midi.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x64\Release\NAudio.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\x64\Release\Launchpad.TrustInfo.xml
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\x64\Release\Launchpad.exe.manifest
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\x64\Release\Launchpad.application
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\x64\Release\Launchpad.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\x64\Release\Launchpad.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad Mk2\bin\x64\Release\Launchpad.exe.config
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad Mk2\obj\x64\Release\Launchpad.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad Mk2\obj\x64\Release\Launchpad.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\Launchpad.exe.config
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x64\Release\Launchpad.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x64\Release\Launchpad.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\Launchpad.exe.manifest
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\Launchpad.application
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\Launchpad.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\Launchpad.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\InputSimulator.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\Midi.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x64\Release\NAudio.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x64\Release\Launchpad.TrustInfo.xml
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x64\Release\Launchpad.exe.manifest
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x64\Release\Launchpad.application

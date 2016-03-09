@@ -1,0 +1,6 @@
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad_Service\bin\Release\Launchpad_Service.exe.config
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad_Service\bin\Release\Launchpad_Service.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad_Service\bin\Release\Launchpad_Service.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad_Service\obj\Release\Launchpad_Service.csprojResolveAssemblyReference.cache
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad_Service\obj\Release\Launchpad_Service.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad_Service\obj\Release\Launchpad_Service.pdb

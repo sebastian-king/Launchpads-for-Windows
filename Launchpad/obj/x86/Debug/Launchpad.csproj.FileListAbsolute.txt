@@ -1,0 +1,14 @@
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\Launchpad.exe.config
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\Launchpad.exe.manifest
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\Launchpad.application
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\Launchpad.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\Launchpad.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\InputSimulator.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\Midi.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\bin\x86\Debug\NAudio.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x86\Debug\Launchpad.csprojResolveAssemblyReference.cache
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x86\Debug\Launchpad.TrustInfo.xml
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x86\Debug\Launchpad.exe.manifest
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x86\Debug\Launchpad.application
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x86\Debug\Launchpad.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad\Launchpad\obj\x86\Debug\Launchpad.pdb

@@ -1,0 +1,15 @@
+C:\Users\Seb\Documents\Visual Studio 2013\Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Launchpad Mk2.exe.config
+C:\Users\Seb\Documents\Visual Studio 2013\Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Launchpad Mk2.exe
+C:\Users\Seb\Documents\Visual Studio 2013\Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Launchpad Mk2.pdb
+C:\Users\Seb\Documents\Visual Studio 2013\Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Midi.dll
+C:\Users\Seb\Documents\Visual Studio 2013\Projects\Launchpad Mk2\Launchpad Mk2\obj\Debug\Launchpad Mk2.csprojResolveAssemblyReference.cache
+C:\Users\Seb\Documents\Visual Studio 2013\Projects\Launchpad Mk2\Launchpad Mk2\obj\Debug\Launchpad Mk2.exe
+C:\Users\Seb\Documents\Visual Studio 2013\Projects\Launchpad Mk2\Launchpad Mk2\obj\Debug\Launchpad Mk2.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Launchpad Mk2.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Launchpad Mk2.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Midi.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\NAudio.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\Launchpad Mk2.exe.config
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\Debug\Launchpad Mk2.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\Debug\Launchpad Mk2.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\Debug\InputSimulator.dll

@@ -1,0 +1,8 @@
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x86\Debug\Launchpad Mk2.exe.config
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x86\Debug\Launchpad Mk2.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x86\Debug\Launchpad Mk2.pdb
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x86\Debug\InputSimulator.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x86\Debug\Midi.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\bin\x86\Debug\NAudio.dll
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\x86\Debug\Launchpad Mk2.exe
+C:\Users\Seb\Dropbox\VS Projects\Launchpad Mk2\Launchpad Mk2\obj\x86\Debug\Launchpad Mk2.pdb
